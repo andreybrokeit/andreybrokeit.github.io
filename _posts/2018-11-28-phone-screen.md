@@ -16,7 +16,7 @@ Why do we conduct screening interviews over the phone?
 Because we are mean and want other people on the other end of the line to suffer?
 Or we have nothing else to do but listen to the awkward, semi-stuttering speech with a phone static that makes this whole experience sound like a really bad DJ remix of some LoFi Jazz/HipHop stream on [Youtube](https://www.youtube.com/results?search_query=lofi+hip+hop).
 
-The time we invest into this conversation will pay off greatly when you won't be wasting yours and your coworker's time bringing in the "bad fit" candidate into the office.
+When your poorly screened candidates come into the office and spends 6 hours each talking to your coworkers - it becomes very expensive to do so week after week. The time we invest into proper screening will pay off greatly very soon.
 
 If you bring a sub-optimal candidate into the office you will be wasting your and your coworker's time at a dramatic rate. Investing some of your time into the phone screen you will pay off greatly in the future. The important part is the efficiency of the screening.
 
