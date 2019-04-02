@@ -23,3 +23,10 @@ Every interview, every call, and every job post should be evaluated.
 
 If you have a long streak of sub-optimal candidates that sounded really on the phone - the problem most likely "it's not you it's me". You screening process has to be adjusted. You should modify script and questions you ask. Analyze all failed candidates and see what was their shortcomings. Then add questions to the phone screen that will test those areas.
 Always improve efficiency of the screening, otherwise you just gamble, hoping to roll a critical hit and get your next hire. Well, that's <a href="https://www.random.org/" alt="RNGesus">RNG</a> - not a hiring process.
+
+From my countless phone calls I can say that quality of connection will 100% affect your perception of the candidate. So make sure to be prepared. Check your past century phone moster in the conference room ahead of time. Make sure your cellphone does not have 7% charge left because you were watching <a href="https://www.hbo.com/last-week-tonight-with-john-oliver" alt="HBO: Last Week Tonight">John Oliver</a> on the way to work.
+
+I usually like to ask open ended questions - during phone screens and during interviews. It allows candidates to show what technology they were exposed to, talk about things they are comfortable with or, most importantly, passionate about.
+One of the easiest questions is to talk about past jobs and career development. This is a 2 minute "elevator ride" speech that they can present themselves in the form and shape they want to appear to me. It also supposed to be one of the questions they HAD to prepare so it should relax them a little during the monologue and let them get into the interviewing beat.
+
+After that you should dig in more into their experience and actual impactful projects they did. Just like Elon Musk <a href="https://www.inc.com/kevin-j-ryan/how-to-hire-like-elon-musk.html">said</a> in his interview: "If someone was really the person who solved it, they'll be able to answer on multiple levels."
